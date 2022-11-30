@@ -1,0 +1,21 @@
+.Home{
+    height: 100vh;
+    background-color:cadetblue;
+    font-size: larger;
+    color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Login{
+    height: 100vh;
+    background-color:darkolivegreen;
+    font-size: larger;
+    color: rgb(3, 1, 14);
+
+}
+.Home img{
+    /* border: 2px solid red; */
+    height: 20rem;
+    width: 30rem;
+}
